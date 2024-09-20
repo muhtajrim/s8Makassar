@@ -1,2 +1,2 @@
-# s8Makassar
+# s8makassar
 web
